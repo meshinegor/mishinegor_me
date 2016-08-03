@@ -56,7 +56,7 @@
                        <ul>
                            <li><a href="https://www.facebook.com/mishin.egor"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                            <li><a href="https://vk.com/mishin.egor"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
-                           <li><a href="www.linkedin.com/in/mishin-egor"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                           <li><a href="https://www.linkedin.com/in/mishin-egor"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
                            <li><a href="skype:siteslab.biz?add"><i class="fa fa-skype" aria-hidden="true"></i></a></li>
                        </ul>
                    </div><!--End Social -->
